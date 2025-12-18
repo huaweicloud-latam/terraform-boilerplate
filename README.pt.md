@@ -38,7 +38,7 @@ Se desejar armazenar o arquivo de estado remotamente, consulte a seção
 Após configurar o armazenamento remoto de estado, carregue as variáveis de
 ambiente de acordo com o seu sistema operacional:
 
-- Se estiver no Windows, execute `..\Set-EnvVars.ps1`;
+- Se estiver no Windows, execute `. .\Set-EnvVars.ps1`;
 - Se estiver no Linux, execute `. set-env-vars.sh`;
 
 Caso contrário, se não desejar usar o armazenamento remoto de estado, remova a
